@@ -8,6 +8,7 @@ daddy tyga x bini
 bini_tyga
 sabi ni fernando normal lang daw ang n word
 fernando chimera ant
+si golem ginamit ang spin move
 
 > [!CAUTION]
 > Tara na't makiabo
