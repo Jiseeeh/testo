@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/Jiseeeh/testo/compare/v1.0.0...v1.1.0) (2024-06-21)
+
+
+### Features
+
+* 1 ([#1](https://github.com/Jiseeeh/testo/issues/1)) ([bae678c](https://github.com/Jiseeeh/testo/commit/bae678c9a3a538002d917439e75963989e09852d))
+* release/2024-06-21 ([25fb905](https://github.com/Jiseeeh/testo/commit/25fb905137dc61585918cf1c21dde9b68c98bba5)), closes [#1](https://github.com/Jiseeeh/testo/issues/1)
+
 # 1.0.0 (2024-06-21)
 
 
