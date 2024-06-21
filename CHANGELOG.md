@@ -1,3 +1,14 @@
+# [1.6.0](https://github.com/Jiseeeh/testo/compare/v1.5.0...v1.6.0) (2024-06-21)
+
+
+### Features
+
+* daddy tyga ([#12](https://github.com/Jiseeeh/testo/issues/12)) ([f9c7649](https://github.com/Jiseeeh/testo/commit/f9c764965f37fa09c61bb7900457be8e04d5b7de))
+* fernando ([#13](https://github.com/Jiseeeh/testo/issues/13)) ([d368513](https://github.com/Jiseeeh/testo/commit/d3685137a17191702e06032827e44201839fba5f))
+* golem ([#14](https://github.com/Jiseeeh/testo/issues/14)) ([4b7b1a9](https://github.com/Jiseeeh/testo/commit/4b7b1a97f3d81a99093a1291842da799de68bf8d))
+* rascbinuya ([#15](https://github.com/Jiseeeh/testo/issues/15)) ([651fecd](https://github.com/Jiseeeh/testo/commit/651fecdcaf43f7295d47cedad8d36d0241e748f9))
+* sam ([#16](https://github.com/Jiseeeh/testo/issues/16)) ([8d476d7](https://github.com/Jiseeeh/testo/commit/8d476d7a0e96a974cb1eb4b63a478cae55f72152))
+
 # [1.5.0](https://github.com/Jiseeeh/testo/compare/v1.4.0...v1.5.0) (2024-06-21)
 
 
