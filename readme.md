@@ -14,6 +14,7 @@ si golem ginamit ang spin move
 niyaya pa si fernando 1v1 daw sila after kay rasc binuya
 
 rasc binuya inaaming siya lang ang nakakalamang sa lahat ng chimera ant
+siya lang daw ang masipag at may trabaho
 
 > [!CAUTION]
 > Tara na't makiabo
