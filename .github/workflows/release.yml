@@ -11,10 +11,12 @@ jobs:
     environment:
       name: semver
     steps:
-      - name: Checkout
+      - name: Checkout main
         uses: actions/checkout@v4
         with:
+          ref: main
           persist-credentials: false
+          
 
 
       - name: Semantic Release
