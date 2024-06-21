@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/Jiseeeh/testo/compare/v1.3.0...v1.4.0) (2024-06-21)
+
+
+### Features
+
+* last branch feature ([#11](https://github.com/Jiseeeh/testo/issues/11)) ([ebb4aea](https://github.com/Jiseeeh/testo/commit/ebb4aea24a605f449c3697d18c03b63c40c923eb))
+
 # [1.3.0](https://github.com/Jiseeeh/testo/compare/v1.2.0...v1.3.0) (2024-06-21)
 
 
