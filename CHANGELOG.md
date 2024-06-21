@@ -1,3 +1,13 @@
+# [1.2.0](https://github.com/Jiseeeh/testo/compare/v1.1.0...v1.2.0) (2024-06-21)
+
+
+### Features
+
+* 2 ([#3](https://github.com/Jiseeeh/testo/issues/3)) ([1dd9740](https://github.com/Jiseeeh/testo/commit/1dd97401b8d06ca7d702c46e9f06ddcf40f784ae))
+* 3 ([#4](https://github.com/Jiseeeh/testo/issues/4)) ([ba9822e](https://github.com/Jiseeeh/testo/commit/ba9822ed8602e68a9e18c82b82ab460821350b94))
+* 4 ([#5](https://github.com/Jiseeeh/testo/issues/5)) ([fdb10d2](https://github.com/Jiseeeh/testo/commit/fdb10d2c6406969a69703b242c8cc3484bc650f6))
+* new feature ([56c2187](https://github.com/Jiseeeh/testo/commit/56c2187c026f568b14cdc3361e04f7e3ccd73a77))
+
 # [1.1.0](https://github.com/Jiseeeh/testo/compare/v1.0.0...v1.1.0) (2024-06-21)
 
 
