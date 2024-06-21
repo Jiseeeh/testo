@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Jiseeeh/testo/compare/v1.2.0...v1.3.0) (2024-06-21)
+
+
+### Features
+
+* plus ultra ([#9](https://github.com/Jiseeeh/testo/issues/9)) ([b9e2015](https://github.com/Jiseeeh/testo/commit/b9e2015768c07cd7672c7b621ef128346b69b866)), closes [#7](https://github.com/Jiseeeh/testo/issues/7) [#8](https://github.com/Jiseeeh/testo/issues/8)
+
 # [1.2.0](https://github.com/Jiseeeh/testo/compare/v1.1.0...v1.2.0) (2024-06-21)
 
 
