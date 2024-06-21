@@ -1,0 +1,24 @@
+name: release
+on:
+  push:
+    branches:
+      - 'release/*'
+  workflow_dispatch:
+
+jobs:
+  main: 
+    runs-on: ubuntu-latest
+    environment:
+      name: semver
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+
+
+      - name: Semantic Release
+        uses: cycjimmy/semantic-release-action@v4
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
