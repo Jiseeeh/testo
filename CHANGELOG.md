@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/Jiseeeh/testo/compare/v1.6.0...v1.6.1) (2024-06-23)
+
+
+### Bug Fixes
+
+* fix trailing ([9a94780](https://github.com/Jiseeeh/testo/commit/9a94780eb2691c637969cf3a785131b6d31b58dd))
+
 # [1.6.0](https://github.com/Jiseeeh/testo/compare/v1.5.0...v1.6.0) (2024-06-21)
 
 
