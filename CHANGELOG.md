@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/Jiseeeh/testo/compare/v1.6.1...v2.0.0) (2024-07-12)
+
+
+### Features
+
+* test only ([e7a4ec4](https://github.com/Jiseeeh/testo/commit/e7a4ec4acd55a7b96bc20e936c19b43e5598f458))
+
+
+### BREAKING CHANGES
+
+* test
+
 ## [1.6.1](https://github.com/Jiseeeh/testo/compare/v1.6.0...v1.6.1) (2024-06-23)
 
 
